@@ -25,6 +25,13 @@ header img {
     border: 5px solid gray
 }
 
+header img {
+    width: 300px;
+    height: 168px;
+    border: 50%;
+    border: 5px solid gray
+}
+
 .center{
     text-align: center;
 }
