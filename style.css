@@ -60,3 +60,7 @@ footer p {
 nav a:hover{
     color: black;
 }
+.img {
+    width: 300px;
+    height: 168px;
+}
